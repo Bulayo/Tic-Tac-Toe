@@ -1,3 +1,3 @@
 import pygame
 
-WIDTH, HEIGHT = 400, 400
+WIDTH, HEIGHT = 390, 390
